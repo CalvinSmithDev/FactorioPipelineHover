@@ -1,0 +1,9 @@
+{
+  "name": "pipeline-hover",
+  "version": "1.0.0",
+  "title": "Pipeline Hover Visualizer",
+  "author": "Pipeline Hover contributors",
+  "factorio_version": "2.1",
+  "dependencies": ["base >= 2.1.22"],
+  "description": "Bring back pipeline visualization on mouse-over. Hover over a pipe, underground pipe, tank, pump, or fluid machine in alt mode to see connected pipelines, underground links, fluid colors, contents icons, and live pipeline amounts. No clicks, tools, or extra hotkeys. Compatible with Space Age."
+}

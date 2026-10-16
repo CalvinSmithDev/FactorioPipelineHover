@@ -1,0 +1,8 @@
+---------------------------------------------------------------------------------------------------
+Version: 1.0.0
+Date: 2026-10-15
+  Features:
+    - Automatically visualize hovered pipelines in alt mode on Factorio 2.1.
+    - Show fluid colors, contents icons, live amounts, and dashed underground connections.
+    - Keep pump sides and independent machine fluid storages separate.
+    - Add per-player preferences and bounded traversal for large networks.
